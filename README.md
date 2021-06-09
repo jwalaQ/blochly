@@ -1,2 +1,3 @@
-# blochly
-Bloch sphere using plotly
+# Blochly
+
+Bloch sphere using plotly.
