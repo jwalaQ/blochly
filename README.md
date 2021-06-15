@@ -4,6 +4,8 @@ Bloch sphere using plotly.
 
 See `bloch_plotly.mp4` for example.
 
+---
+
 The example is created by passing the statevector:
 
 stv = [0.65328148-0.27059805j, 0.65328148+0.27059805j]
